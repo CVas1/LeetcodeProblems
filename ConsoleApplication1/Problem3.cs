@@ -5,11 +5,11 @@ using System.Text;
 
 public class Problem3
 {
-    public static void Main()
-    {
-        Problem3 p3 = new Problem3();
-        Console.WriteLine(p3.LengthOfLongestSubstring("auef"));
-    }
+    // public static void Main()
+    // {
+    //     Problem3 p3 = new Problem3();
+    //     Console.WriteLine(p3.LengthOfLongestSubstring("auef"));
+    // }
 
     public int LengthOfLongestSubstring(string s)
     {
