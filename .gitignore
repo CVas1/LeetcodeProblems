@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.ConsoleApplication1/.idea/indexLayout.xml
+.idea/.idea.ConsoleApplication1/.idea/vcs.xml
+ConsoleApplication1.sln
+ConsoleApplication1/ConsoleApplication1.csproj
+ConsoleApplication1/Properties/AssemblyInfo.cs
+
