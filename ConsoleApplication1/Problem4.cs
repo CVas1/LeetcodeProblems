@@ -2,11 +2,11 @@ using System;
 
 public class Problem4
 {
-    public static void Main()
-    {
-        Problem4 p3 = new Problem4();
-        Console.WriteLine(p3.FindMedianSortedArrays(new int[] { 1, 3 }, new int[] { 2 }));
-    }
+    // public static void Main()
+    // {
+    //     Problem4 p3 = new Problem4();
+    //     Console.WriteLine(p3.FindMedianSortedArrays(new int[] { 1, 3 }, new int[] { 2 }));
+    // }
 
     public double FindMedianSortedArrays(int[] nums1, int[] nums2)
     {
