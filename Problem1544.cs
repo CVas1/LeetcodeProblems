@@ -5,11 +5,11 @@ using System.Text;
 
 public class Problem1544
 {
-    public static void Main()
-    {
-        Problem1544 pb = new Problem1544();
-        Console.WriteLine(pb.MakeGood("abBAcC"));
-    }
+    // public static void Main()
+    // {
+    //     Problem1544 pb = new Problem1544();
+    //     Console.WriteLine(pb.MakeGood("abBAcC"));
+    // }
 
     public string MakeGood(string s)
     {
