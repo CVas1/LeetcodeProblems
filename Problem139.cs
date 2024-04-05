@@ -6,12 +6,12 @@ using System.Text;
 
 public class Problem139
 {
-    public static void Main()
-    {
-        Problem139 pb = new Problem139();
-        List<string> list = new List<string>() { "leet","code"};
-        Console.WriteLine(pb.WordBreak("leetcode",list));
-    }
+    // public static void Main()
+    // {
+    //     Problem139 pb = new Problem139();
+    //     List<string> list = new List<string>() { "leet","code"};
+    //     Console.WriteLine(pb.WordBreak("leetcode",list));
+    // }
     
     public bool WordBreak(string s, IList<string> wordDict)
     {
