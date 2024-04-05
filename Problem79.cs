@@ -4,18 +4,18 @@ using System.Linq;
 
 public class Problem79
 {
-    public static void Main()
-    {
-        Problem79 pb = new Problem79();
-        char[][] charArray = new char[][]
-        {
-            new char[] { 'b','b' },
-            new char[] { 'a','b' },
-            new char[] { 'b','a' }
-
-        };
-        pb.Exist(charArray, "ABCCED");
-    }
+    // public static void Main()
+    // {
+    //     Problem79 pb = new Problem79();
+    //     char[][] charArray = new char[][]
+    //     {
+    //         new char[] { 'b','b' },
+    //         new char[] { 'a','b' },
+    //         new char[] { 'b','a' }
+    //
+    //     };
+    //     pb.Exist(charArray, "ABCCED");
+    // }
 
     public char[] chars;
     public Stack<Vector2> usedVector2s = new Stack<Vector2>();
