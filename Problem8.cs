@@ -3,11 +3,11 @@ using System.Text;
 
 public class Problem8
 {
-    public static void Main()
-    {
-        Problem8 pb = new Problem8();
-        Console.WriteLine(pb.MyAtoi("   -42"));
-    }
+    // public static void Main()
+    // {
+    //     Problem8 pb = new Problem8();
+    //     Console.WriteLine(pb.MyAtoi("   -42"));
+    // }
 
     public int MyAtoi(string s)
     {
