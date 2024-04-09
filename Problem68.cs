@@ -4,12 +4,12 @@ using System.Text;
 
 public class Problem68
 {
-    public static void Main()
-    {
-        Problem68 pb = new Problem68();
-        Console.WriteLine(pb.FullJustify(new string[] { "What","must","be","acknowledgment","shall","be" },
-            16));
-    }
+    // public static void Main()
+    // {
+    //     Problem68 pb = new Problem68();
+    //     Console.WriteLine(pb.FullJustify(new string[] { "What","must","be","acknowledgment","shall","be" },
+    //         16));
+    // }
 
     public IList<string> FullJustify(string[] words, int maxWidth)
     {
