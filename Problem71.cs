@@ -5,11 +5,11 @@ using System.Text;
 
 public class Problem71
 {
-    public static void Main()
-    {
-        Problem71 pb = new Problem71();
-        Console.WriteLine(pb.SimplifyPath("/a/./b/../../c/"));
-    }
+    // public static void Main()
+    // {
+    //     Problem71 pb = new Problem71();
+    //     Console.WriteLine(pb.SimplifyPath("/a/./b/../../c/"));
+    // }
 
     public string SimplifyPath(string path)
     {
