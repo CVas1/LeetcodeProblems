@@ -2,9 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
+//mounatin game
 class Player
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         List<int> mountains = new List<int>();
         // game loop
